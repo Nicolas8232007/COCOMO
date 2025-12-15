@@ -1,0 +1,5 @@
+{
+  "name": "COCOMO Calculator",
+  "description": "Herramienta educativa para la estimación de costes de software utilizando el Modelo Constructivo de Costes (COCOMO) Intermedio.",
+  "requestFramePermissions": []
+}
